@@ -3,7 +3,7 @@
 n=1
 while (( n <= 10))
 do
-    echo "Holberton School"
+    echo "Best School"
     n=$(( n+1 ))
     if [ $n = 10 ]
     then
