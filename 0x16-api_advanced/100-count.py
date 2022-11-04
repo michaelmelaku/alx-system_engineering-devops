@@ -6,7 +6,7 @@ Javascript should count as javascript, but java should not).
 """
 import pprint
 import re
-import requests 
+import requests  
 
 BASE_URL = 'http://reddit.com/r/{}/hot.json'
 
